@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Polina ✨️</h1>
-<p align="center">Welcome to my little corner of GitHub! Here I collect projects I'm proud of and write code with heart.</p>
+<p align="center">୨୧ ──・୨୧・── ୨୧</p>
+
+<p align="center">૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡ Welcome to my little corner of GitHub! ♡
+</p>
+<p align="center">꒰ა Here I collect projects I'm proud of and write code with heart. ໒꒱
+</p>
+<p align="center">૮₍ ˶•⤙•˶ ₎ა ♡ ₊˚⊹ ʚɞ ⊹˚₊ ♡ (˶ᵔ ᵕ ᵔ˶)</p>
+
+<p align="center">୨୧ ──・୨୧・── ୨୧</p>
 
 <h2 align="center">🌸 My Tech Stack 🌸</h2>
 
