@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Name] ✨️🌸</h1>
+<h1 align="center">Hi, I'm Polina ✨️🌸</h1>
 <p align="center">Welcome to my little corner of GitHub! Here I collect projects I'm proud of and write code with heart.</p>
 ## My Tech Stack
 
